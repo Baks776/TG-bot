@@ -1,0 +1,2 @@
+token = '5325126408:AAHJvCFhhHt7vpQJJWE1ggKocuH2up2VmWI'
+token_OMW = 'a137d38ba2fad474752c266d1104d71f'
